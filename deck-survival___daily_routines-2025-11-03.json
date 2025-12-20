@@ -1,0 +1,45 @@
+{
+  "deck": {
+    "name": "Survival & Daily Routines",
+    "description": "Greetings, time, routine verbs (levantarse, desayunar, ir al trabajo, volver), likes/dislikes",
+    "language": "Spanish",
+    "color": "#96CEB4",
+    "createdAt": "2025-11-03T03:36:31.764Z"
+  },
+  "cards": [
+    {
+      "id": "card_1762141024320",
+      "deckId": "1762140991764",
+      "type": "translate",
+      "targetLanguageWord": "Me levanto a las seis todos los días.",
+      "englishTranslation": "I get up at six every day.",
+      "showTargetLanguageFirst": true,
+      "imageUrls": [],
+      "easeFactor": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "lastReviewed": "2025-11-03T03:37:04.320Z",
+      "nextReview": "2025-11-03T03:37:04.320Z",
+      "isNew": true,
+      "skipCount": 0
+    },
+    {
+      "id": "card_1762141047996",
+      "deckId": "1762140991764",
+      "type": "translate",
+      "targetLanguageWord": "¿Puedes repetirlo más despacio, por favor?",
+      "englishTranslation": "Can you repeat it more slowly, please?",
+      "showTargetLanguageFirst": false,
+      "imageUrls": [],
+      "easeFactor": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "lastReviewed": "2025-11-03T03:37:27.996Z",
+      "nextReview": "2025-11-03T03:37:27.996Z",
+      "isNew": true,
+      "skipCount": 0
+    }
+  ],
+  "exportedAt": "2025-11-03T03:37:35.102Z",
+  "version": "1.0"
+}
