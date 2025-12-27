@@ -1,0 +1,12 @@
+{
+  "deck": {
+    "name": "My Deck",
+    "description": "Description here",
+    "language": "es"
+  },
+  "cards": [
+    { "front": "uno", "back": "one" },
+    { "front": "dos", "back": "two" }
+  ],
+  "version": "1.0"
+}
