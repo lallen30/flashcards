@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "storyCategories": [{ "id": "cat1", "name": "My Stories" }],
+  "stories": [
+    {
+      "title": "My Story",
+      "content": "First sentence. Second sentence. Third sentence.",
+      "categoryId": "cat1"
+    }
+  ]
+}
